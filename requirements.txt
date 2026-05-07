@@ -1,0 +1,6 @@
+aiogram
+apscheduler
+aiohttp
+beautifulsoup4
+lxml
+requests
